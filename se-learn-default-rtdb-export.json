@@ -1,0 +1,53 @@
+{
+  "User": {
+    "2egmuhMW7fWtWZdCvvIK128Qco63": {
+      "email": "lehoang24082020@gmail.com",
+      "hoTen": "le hoang huy",
+      "iduser": "2egmuhMW7fWtWZdCvvIK128Qco63",
+      "point": 50,
+      "sdt": "0922642414"
+    },
+    "DnvuIf6op2SSa70px84DAw817aN2": {
+      "email": "huy1@gmail.com",
+      "hoTen": "le huy",
+      "iduser": "DnvuIf6op2SSa70px84DAw817aN2",
+      "point": 0,
+      "sdt": "123456"
+    },
+    "bKVhoHdwIGaqoEv52heAXID3YL32": {
+      "email": "huy@gmail.com",
+      "hoTen": "Le Huy",
+      "iduser": "bKVhoHdwIGaqoEv52heAXID3YL32",
+      "point": 30,
+      "sdt": "0922642414"
+    },
+    "gub1lNclT3ee1gEEfSkUkGwgk3k1": {
+      "email": "huy6@gmail.com",
+      "hoTen": "Le quang abc  cc",
+      "iduser": "gub1lNclT3ee1gEEfSkUkGwgk3k1",
+      "point": 0,
+      "sdt": "0147258"
+    },
+    "qi9tzGT5DoNyVupZoS4sC2CBOQv2": {
+      "email": "tdkhanh.20it6@vku.udn.vn",
+      "hoTen": "tran dinh khanh",
+      "iduser": "qi9tzGT5DoNyVupZoS4sC2CBOQv2",
+      "point": 0,
+      "sdt": "123456789"
+    },
+    "yEheEF9gcNT57k6QNFNo8iq9zBq2": {
+      "email": "vietnhan@gmail.com",
+      "hoTen": "viet nahn",
+      "iduser": "yEheEF9gcNT57k6QNFNo8iq9zBq2",
+      "point": 0,
+      "sdt": "0987654321"
+    },
+    "zngkcxawMZTnHiHy9O9md2PWzet1": {
+      "email": "khanhtrandinh1803@gmail.com",
+      "hoTen": "khanh",
+      "iduser": "zngkcxawMZTnHiHy9O9md2PWzet1",
+      "point": 5,
+      "sdt": "0915368545"
+    }
+  }
+}
